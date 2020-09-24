@@ -1,7 +1,7 @@
-### Hi there 👋
-- 🌱 I’m currently learning Docker, NLP and OpenCV
 
+![alt text](https://github.com/sauravpradhan1/sauravpradhan1/blob/master/Hello%20there%2C.gif)
 
+ [![Visits Badge](https://badges.pufler.dev/visits/sauravpradhan1/sauravpradhan1)](https://badges.pufler.dev/visits/sauravpradhan1/sauravpradhan1)
 <!--
 **sauravpradhan1/sauravpradhan1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
