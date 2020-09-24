@@ -1,5 +1,5 @@
 
-![alt text](https://github.com/sauravpradhan1/sauravpradhan1/blob/master/Hello%20there%2C.gif)
+![alt text](https://github.com/sauravpradhan1/sauravpradhan1/blob/master/profile%20display.gif)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=sauravpradhan1)
 <!--
